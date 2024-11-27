@@ -1,0 +1,13 @@
+[package]
+name = "commands"
+version = "0.1.0"
+authors = ["Robert Bossert robbossert14@gmail.com"]
+license = "MIT OR Apache-2.0"
+description = "A CLI project with various tools and a game"
+homepage = "https://github.com/RBossert14"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+chrono = "0.4"
+rand = "0.8"
